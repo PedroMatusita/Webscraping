@@ -1,0 +1,27 @@
+Drogaria Minas:
+
+1. Teste para ver API:
+analisando o fetch não encontrei possibilidades de API.
+
+2. HTML Estático ou Dinâmico
+
+Acredito ser HTML Dinâmico, javascript afetou o site, a parte de medicamentos não pode escolher marcas ou aumentar o numero de produto que aparecem
+
+3. Estratégia
+Assumindo que o HTML seja Dinâmico, Selenium, Playwright
+JSON oculto
+
+FarmaPonte:
+
+1. Teste para ver API:
+poucos dados, sem API.
+
+2. HTML Estático ou Dinâmico
+
+Dificil de decidir, a página principal fica toda branca.
+Mas pra pesquisar foi suave, caso veja por marca e a mudanca de pagina também é possível.
+Por isso acho que é Estático.
+
+3. Estratégia
+Assumindo que o HTML seja Estático, Beautiful Soup, Scrapy, Asyncio
+JSON oculto
